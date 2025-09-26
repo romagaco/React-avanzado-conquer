@@ -1,0 +1,1 @@
+/* este archivo no es terminacion tsx porque no llva un render html*/
