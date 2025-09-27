@@ -1,1 +1,3 @@
-/* este archivo no es terminacion tsx porque no llva un render html*/
+export const CharactersContainer = () => {
+    return "cargaste el Characters conatiner"
+}
